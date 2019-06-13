@@ -1,4 +1,4 @@
-Feature A
+Frequently asked questions
 =========
 
 Subsection
